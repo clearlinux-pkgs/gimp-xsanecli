@@ -1,0 +1,1 @@
+install -m 0755 -D xsanecli.py %{buildroot}$(gimptool --gimpplugindir)/plug-ins/xsanecli/xsanecli.py
